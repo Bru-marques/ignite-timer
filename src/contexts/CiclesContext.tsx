@@ -14,7 +14,6 @@ import {
 } from '../reducers/cycles/actions'
 import { Cycle, cyclesReducer } from '../reducers/cycles/reducer'
 
-
 interface CreateCycleData {
     task: string
     minutesAmount: number
@@ -60,7 +59,7 @@ export function CyclesContextProvider({
     )
 
     const { cycles, activeCycleId } = cyclesState
-    const activeCycle = cycles.find((cycle: Cycle) => cycle.id === activeCycleId)
+    const activeCycle = cycles.find((cycle) => cycle.id === activeCycleId)
 
     const [amountSecondsPassed, setAmountSecondsPassed] = useState(() => {
         if (activeCycle) {
