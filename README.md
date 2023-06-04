@@ -1,11 +1,15 @@
 # Ignite Timer
 A customized Pomodoro Timer made  with React during Ignite Event promoted by Rocketseat Brazil.
 
+## Timer Page
+
 <p align="center">
-  <img alt="Ignite-timer" src="https://github.com/Bru-marques/letmeask_react_firebase/blob/main/src/assets/shield.png" width="460px">
+  <img alt="Ignite-timer" src="https://github.com/Bru-marques/ignite-timer/blob/main/src/assets/timer-page.png" width="460px">
 </p>
+
+## Track Page
 <p align="center">
-  <img alt="Ignite-timer" src="https://github.com/Bru-marques/letmeask_react_firebase/blob/main/src/assets/shield.png" width="460px">
+  <img alt="Ignite-timer" src="https://github.com/Bru-marques/ignite-timer/blob/main/src/assets/track-page.png" width="460px">
 </p>
 
 ## Features
